@@ -1,6 +1,6 @@
 # VCPKG Test
 
-VCPKG is a package manager for C++ created by Microsoft. It's similar to pip/npm/cargo. I'm using it in this repo to download an argument parser dependency, CLI11.
+VCPKG is a package manager for C++ created by Microsoft. It's similar to pip/npm/cargo. I'm using it in this repo to download an argument parser dependency, CLI11. Dependencies are contained in vcpkg.json. This can either be edited manually, or updated through the VCPKG cli.
 
 ## To run
 
